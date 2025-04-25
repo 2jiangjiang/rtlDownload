@@ -6,4 +6,4 @@ surrport:
 
 how to use example: 
 
-	rtlDownload.exe -c images/amebad.json -d /dev/ttyUSB0 --monitor
+	./rtlDownload -c images/amebad.json -d /dev/ttyUSB0 --monitor
